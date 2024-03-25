@@ -3,9 +3,9 @@
    padding: 0;
 }
 
-.cabeçalho{
-   background-color: #7b97c2;
-   color: #325677;
+.loja-de-concertos{
+   background-color: #a568bd;
+   color: #000d1a;
    display: flex;
    justify-content: space-around;
    align-items: center;
@@ -21,3 +21,25 @@
    margin: 0 16px;
    font-size: 24px;
 }
+
+
+.loja-imagem{
+   width: 25%;
+}
+
+.loja{
+   background-image: linear-gradient(#400547,#511b68);
+   color: white;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   padding: 24px 0;
+}
+
+.loja-div-conteudo{
+   width: 35%;
+}
+.loja-tiulo{
+   padding: 24p 0;
+}
+
