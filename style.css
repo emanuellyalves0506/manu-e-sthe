@@ -25,14 +25,18 @@ body {
    font-size: 24px;
 }
 
+.cabeçalho-lista-item{
+   text-decoration: none;
+   color: rgb(5, 3, 7);
+}
+
 
 .loja-imagem{
    width: 25%;
 }
 
 .loja{
-   background-image: linear-gradient(#400547,#511b68);
-   color: white;
+   background-image: linear-gradient(#7B18B3,#6C2C90) 
    display: flex;
    justify-content: center;
    align-items: center;
@@ -48,14 +52,14 @@ body {
 
 .estudante{
    padding: 24px 0;
-   background-color: white;
+   background-color: rgb(66, 41, 77);
 }
 .estudante-imagem{
    width: 120px;
 }
 .estudante-icone{
-   width: 24px;
-   padding: 4px 8px;
+   width: 50px;
+   padding: 4px 10px;
 }
 .estudante-div{
    text-align: center;
@@ -80,6 +84,10 @@ body {
 .rodape-imagem{
    height: 60px;
    padding: 12px 0;
+
+}
+    
+
 
 }
     
